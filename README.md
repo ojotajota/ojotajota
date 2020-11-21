@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>](https://www.facebook.com/juscelinomcjunior/)
 [<img src="https://valueinsights.ch/wp-content/uploads/2019/06/ITIL%C2%AE-4-Foundation-CPD-200x200.png" alt="Image" height="42" width="42">](https://www.youracclaim.com/badges/f57391f5-d4da-441e-b9d0-46b1b3cc697f/linked_in_profile/)
 
+##### Studying programming with a focus on JavaScript, NodeJS, ReactJS and React Native.
